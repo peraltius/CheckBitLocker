@@ -4,13 +4,13 @@
 
 .GUID 3f0ca459-2ac4-418f-8ef3-ff614f379092
 
-.AUTHOR José Ramón Fernández Peralta [joseramon.fernandez@empresas.justicia.es]
+.AUTHOR José Ramón Fernández Peralta
 
 . DATE 21/05/2024
 
 .COMPANYNAME AYESA S.A.
 
-.COPYRIGHT 2024 AYESA S.A.
+.COPYRIGHT 
 
 .TAGS
 
