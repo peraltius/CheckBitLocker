@@ -4,6 +4,8 @@ Confirm that BitLocker is enabled on a device by performing various checks
 # Escenario
 Detección del aumento de dispositivos portátiles dentro de la organización que reportaban el cifrado de BitLocker como deshabilitado dentro de la herramienta de Intune (Azure).
 
+Sistema Operativo: Windows 10 [21H2/22H2]
+
 # Casuísticas
 1. El acceso desde la herramienta Intune a través de consultas del Módelo de Información Común (CIM) del Instrumental de Administración de Windows (WMI) está corrupto y devuelve una excepción.
 2. Anteriormente, los clientes estaban configurados para ser administrados y supervisados por la herramienta MDOP MBAM.
